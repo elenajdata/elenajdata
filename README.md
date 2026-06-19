@@ -56,12 +56,12 @@ I hold an **MS in Data Science from Pace University** (GPA: 3.9) and a **BBA in 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Air New Zealand Review Analysis](https://github.com/elenajdata/air_new_zealand_review_analysis) | Scrapes 900+ airline reviews, stores them in SQLite with Alembic migrations, and uses Groq LLM to classify complaints and sentiment | Python · BeautifulSoup · SQLite · Alembic · Groq |
-| [Coursera Review Scraper](https://github.com/Elenajpersonalgit25/httlads/tree/main/all_the_webscraping_projects) | Crawls 50 pages of Coursera Data Science listings, then scrapes reviews by star rating for each course and stores them in PostgreSQL | Python · BeautifulSoup · SQLAlchemy · PostgreSQL |
-| [AI Stock & CFPB Assistant](https://github.com/Elenajpersonalgit25/app_recommender) | Streamlit app with two OpenAI-powered assistants: a natural-language stock screener (GPT-3.5 function calling + GPT-4 streaming) and a CFPB complaints explorer (Assistants API) | Python · OpenAI · Streamlit |
-| [Course Recommender System](https://github.com/Elenajpersonalgit25/app_recommender) | Recommends Coursera courses using four models: TF-IDF similarity, Bag-of-Words, K-Means clustering, and a Keras neural network | Python · Scikit-learn · Keras · Streamlit |
+| Air New Zealand Review Analysis *(coming soon)* | Scrapes 900+ airline reviews, stores them in SQLite with Alembic migrations, and uses Groq LLM to classify complaints and sentiment | Python · BeautifulSoup · SQLite · Alembic · Groq |
+| Coursera Review Scraper *(coming soon)* | Crawls 50 pages of Coursera Data Science listings, then scrapes reviews by star rating for each course and stores them in PostgreSQL | Python · BeautifulSoup · SQLAlchemy · PostgreSQL |
+| AI Stock & CFPB Assistant *(coming soon)* | Streamlit app with two OpenAI-powered assistants: a natural-language stock screener (GPT-3.5 function calling + GPT-4 streaming) and a CFPB complaints explorer (Assistants API) | Python · OpenAI · Streamlit |
+| Course Recommender System *(coming soon)* | Recommends Coursera courses using four models: TF-IDF similarity, Bag-of-Words, K-Means clustering, and a Keras neural network | Python · Scikit-learn · Keras · Streamlit |
 
-> More repos being cleaned up and published — check back soon.
+> Repos are being cleaned up and published — links will be added as each goes public.
 
 ---
 
