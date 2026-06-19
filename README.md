@@ -56,7 +56,7 @@ I hold an **MS in Data Science from Pace University** (GPA: 3.9) and a **BBA in 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Skytrax Airline Review Analysis](https://github.com/elenajdata/skytrax-airline-review-analysis) | Scrapes 900+ airline reviews, stores them in SQLite with Alembic migrations, and uses Groq LLM to classify complaints and sentiment | Python · BeautifulSoup · SQLite · Alembic · Groq |
+| [Airline Review Analysis](https://github.com/elenajdata/airline-review-analysis) | Scrapes 900+ airline reviews, stores them in SQLite with Alembic migrations, and uses Groq LLM to classify complaints and sentiment | Python · BeautifulSoup · SQLite · Alembic · Groq |
 | Coursera Course Recommender *(coming soon)* | Scrapes 50 pages of Coursera listings and reviews into PostgreSQL, then builds a Streamlit recommender using four ML models: TF-IDF, Bag-of-Words, K-Means, and a Keras neural network | Python · BeautifulSoup · PostgreSQL · Scikit-learn · Keras · Streamlit |
 | AI Stock & CFPB Assistant *(coming soon)* | Streamlit app with two LLM-powered tools: a natural-language stock screener (GPT-3.5 function calling + GPT-4 streaming) and a CFPB complaints explorer (OpenAI Assistants API) | Python · OpenAI · Streamlit |
 
